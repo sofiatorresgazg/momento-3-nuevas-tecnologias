@@ -11,6 +11,12 @@ El reporte generado con datos de moda muestra dos gráficas principales:
 
 Estas gráficas se guardan en la carpeta `reportes/` y también pueden usarse como Base64 desde Python o desde un componente de React.
 
+## Resultados y Análisis Visual
+
+El análisis que realizamos nos permitió descubrir cuáles son los productos más vendidos, las categorías que aparecen con más frecuencia y los promedios generales de precios.
+
+Los gráficos que generamos son una gran ayuda para visualizar los datos que obtuvimos del archivo CSV limpio, lo que hace mucho más fácil identificar patrones y tendencias en la información que analizamos.
+
 ## Requisitos
 
 Instala las dependencias necesarias con:
